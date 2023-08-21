@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'harness1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E2C1F24D3CFC491F9B9CB96330D8CDD4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2B9E8DB1C20498A9B65E68D9FF85A03 }}
